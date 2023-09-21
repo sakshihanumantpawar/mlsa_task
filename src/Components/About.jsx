@@ -16,27 +16,27 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/ganesha.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "This is modified web site os sakshi pawar";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "This is my tourisom website.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
+  "Web devloper",
+  "User interface",
+  "Inclusive interface",
   "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Mobile user group",
+  "Graphic button",
 ];
 
 /**
